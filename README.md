@@ -5,7 +5,6 @@ This package provides a tiny set of functions to make work with bitmask much eas
 ```
 npm install @stein197/bw
 ```
-Or embed directly in HTML from [release page](releases)
 
 ## Usage
 The next code chunk illustrates all available functions that the package provides. For more details refer to doc comments in the source code.
