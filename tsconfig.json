@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": ".",
+		"target": "ESNext",
+		"strict": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"moduleResolution": "node",
+		"resolveJsonModule": true
+	},
+	"include": [
+		"."
+	]
+}
