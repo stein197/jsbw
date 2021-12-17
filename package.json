@@ -5,6 +5,8 @@
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
+    "clean": "clean",
+    "prebuild": "npm run clean",
     "build": "tsc",
     "pretest": "npm run build",
     "test": "mocha test.js"

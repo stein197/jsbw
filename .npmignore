@@ -1,4 +1,5 @@
 /tsconfig.json
 /*.ts
+/clean*
 !/*.d.ts
 /test.*
